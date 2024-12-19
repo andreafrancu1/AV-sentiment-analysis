@@ -1,1 +1,3 @@
-# Autonomous_Vehicle_Sentiment_Analaysis
+# autonomous_vehicle_sentiment_analaysis
+
+Artificial intelligence (AI) technologies are advancing in all domains of society. One area with particularly interesting and impactful advances in AI is in transportation, with the invention of autonomous vehicles (AVs). AVs have sparked the interest of many people throughout the world and induced a variety of reactions to the growing technology, due to their potentially huge consequences. Natural language processing (NLP) tools can be used on text data from posts from Reddit, a popular online social network (OSN) platform, to analyze sentiment around AVs and model common topics discussed around this technology.
